@@ -28,6 +28,10 @@ a {
   color: #222222;
 }
 
+.subheading {
+  font-family: Amiri;
+}
+
 .port-item{
 
   max-width: 100%;
