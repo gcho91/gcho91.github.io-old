@@ -17,10 +17,9 @@ a {
   color: black
 }
 
-
-
 .cover{
-  height: 70vh;
+  height: 80vh;
+  /* height: 800px; */
   width: 100vw;
   /* margin-top: 100px; */
   /* padding-top:100px; */
@@ -28,7 +27,8 @@ a {
 
 .cover h1{
 
-  padding-top: 250px;
+  margin-top: 250px;
+  margin-bottom: 100px;
   font-family: Amiri;
 }
 
